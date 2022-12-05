@@ -21,17 +21,9 @@ int main()
 	std::cin >> num;
 	std::string str;
 	for (int i = 0; i < num; ++i)
-	{
-		int valid = 0;
-		cin >> str;
-		for (char c : str)
-		{
-			cout << '(';
-		}
-	}
+
 	return 0;
 }
-
 
 
 	
